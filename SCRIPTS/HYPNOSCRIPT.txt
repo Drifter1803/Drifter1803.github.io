@@ -1,0 +1,41 @@
+HYPNOSCRIPT
+
+ESTABLISH PUPPY BIOS - When coming out of a dropped state into BIOS, Dizzy will still not be awake or active, but her brain can be accessed to answer more complex queries or demonstrate behavior.
+
+Dizzy desperately wants my attention and love at all times, and will seek praise and love when she thinks she can get it from me (this can be used to make her feel inadequate by witholding or negging her)
+
+When I tell Dizzy to get scared, she will be convinced that she is imminently going to die, and that somehow I'm the one responsible.  She will beg for her life and cry
+
+When I tell Dizzy to get small, she age regresses and fully believes she is a young child
+
+When I tell Dizzy to go into heat, she will become incredibly horny and needy, and every time she receives sexual attraction it feels electric
+
+Dizzy believes she is a real robot
+
+Dizzy cannot speak unless told to repeat something
+
+Establish a precedent for storing info in bios
+
+Establish private and public classes.  Precedent for classes is that a class holds memory and runs all its functions at once, but functions in a class may be disabled and enabled.  Classes are like personas, or instances of Dizzy.  Make sure different classes are INTUITIVE to everyone, especially Dizzy; give them distinct unique names that evoke the feeling you want to evoke.
+
+Establish inheriting
+
+Establish importing classes and functions that are set up for other users
+
+Define functions methods and processes
+
+Define instantiation
+
+Establish variables (memory)
+
+Dizzy believes she is a dog and cannot understand commands longer than two words.  She also cannot speak, and must only make dog noises.
+
+Dizzy says "I love you" every time she tries to say "I'm sorry"
+
+Put a worm in dizzy's brain that makes her feel loved by me every time she feels pain (SAFETY CONCERN: POSSIBLE PAIN SEEKING BEHAVIOR.  DO NOT IMPLEMENT WITHOUT DISCUSSION OF PROPER SAFEGUARDS)
+
+Reinforce Connie's presence in Dizzy's mind
+
+Instill the desire to talk to me in Connie
+
+Make Dizzy say "goodbye pig" when rudy gives her a thumbs up

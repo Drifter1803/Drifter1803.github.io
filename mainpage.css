@@ -1,0 +1,43 @@
+.centered {
+    text-align: center;
+}
+
+.colorfill {
+    width: 100%;
+    height: 100%;
+}
+
+.colorfill.yellow {
+    background-color: yellow;
+}
+
+.DizzyComputer {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.dizzyComputerText {
+    margin-top: 0;
+}
+
+.dizzyTextBlurb {
+    width: 400px;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex.column {
+    flex-direction: column;
+    align-items: center;
+}
+
+.flex.image {
+    justify-content: end;
+    align-items: center;
+}
+
+.tallfill {
+    height: 100%;
+}
