@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded',
         //const file = document.getElementById("testfile");
 
         var file = document.getElementById("scriptframe");
-        file.src = "SCRIPTS/biosScript3-14-2025.txt"
+        file.src = "../SCRIPTS/biosScript3-14-2025.txt"
 
 
         text = "mainpage.html";
