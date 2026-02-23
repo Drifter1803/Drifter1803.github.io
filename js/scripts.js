@@ -1,24 +1,22 @@
 document.addEventListener('DOMContentLoaded',
     function()
     {
-        text = "mainpage.html";
+        //const file = document.getElementById("testfile");
 
-        const url = window.location.href.split("?");
+        var file = document.getElementById("scriptframe");
+        file.src = "../SCRIPTS/biosScript3-14-2025.txt"
+
+
+        text = "mainpage.html";
 
         const testpara = document.getElementById("testtext");
         testpara.innerText = "something else";
 
         var link = document.createElement("a");
-        var linktext = document.createTextNode(url[1]);
+        var linktext = document.createTextNode("title text");
         link.appendChild(linktext);
         link.title = "link!!!";
         link.href = text;
         document.getElementById("playground").appendChild(link);
-
-        var fs = require('fs');
-        var files = fs.readdirSync('/../SCRIPTS/');
-        const ptext = document.createElement("p");
-        ptext.innerText = "testing";
-        document.getElementById("playground").appendChild(ptext);
     }
 );
